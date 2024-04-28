@@ -1,0 +1,21 @@
+* {
+    color: white !important;
+    font-family: Clash Display !important;
+}
+@font-face {
+    font-family: 
+    Clash Display;
+    src: url("./images/clash-display/ClashDisplayRegular.otf");
+}
+
+.back {
+    background: #0B0A1F !important;
+}
+
+.color {
+    color: #4F3DFE !important;
+}
+
+.background {
+    background-color: #4F3DFE;
+}
